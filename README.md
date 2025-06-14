@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vincent Crame</h1>
 <h3 align="center">A graduating student passionate in WEB DEVELOPMENT</h3>
 
+- 🔭 I’m currently working on [Sparkmobile](https://sparkmobile.free.nf/?i=1)
+
 - 🌱 I’m currently learning **Laravel and C#**
 
 - 📫 How to reach me **vincentcrame7@gmail.com**
 
 - 📄 Know about my experiences [https://ph.jobstreet.com/profile/vincent-crame-vpn6cmbzCv](https://ph.jobstreet.com/profile/vincent-crame-vpn6cmbzCv)
+
+- ⚡ Fun fact **Friendly and easy going**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
