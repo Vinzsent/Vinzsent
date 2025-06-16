@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Sparkmobile](https://sparkmobile.free.nf/?i=1)
 
-- 🌱 I’m currently learning **Laravel and C#**
+- 🌱 I’m currently learning **React and C#**
 
 - 📫 How to reach me **vincentcrame7@gmail.com**
 
