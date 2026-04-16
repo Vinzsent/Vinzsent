@@ -1,35 +1,66 @@
-<h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">Full Stack Developer</h3>
+# Vincent
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinzsent&label=Profile%20views&color=0e75b6&style=flat" alt="vinzsent" /> </p>
+<div align="center">
+<img src="cover2.jpeg" alt="a man is great because failure hasn't stopped him"/>
+</div>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinzsent" alt="vinzsent" /></a> </p>
+### agentic engineer
+bridging AI alignment and production systems. building tools that matter.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Sparkmobile](https://sparkmobile.free.nf/?i=1)
+## 🎯 what I Do
 
-- 🌱 I’m currently learning **React and C#**
+**ai safety** - researching and engineering safeguards for AI systems, including red teaming  
+**fullstack development** - scalable web applications from concept to production  
+**agentic engineering** - Coding at the speed of thought
 
-- 📫 How to reach me **vincentcrame7@gmail.com**
+building real-time solutions to world problems through software
 
-- 📄 Know about my experiences [https://ph.jobstreet.com/profile/vincent-crame-vpn6cmbzCv](https://ph.jobstreet.com/profile/vincent-crame-vpn6cmbzCv)
+---
 
-- ⚡ Fun fact **Friendly and easy going**
+## 🛠️ tech Arsenal
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vincent-crame-b2376b197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vincent-crame-b2376b197/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23305503/vincent-crame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23305503/vincent-crame" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/vinz.crame14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vinz.crame14" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vinz.crame/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vinz.crame/" height="30" width="40" /></a>
+**systems & core**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![holyC](https://img.shields.io/badge/HolyC-%23000000.svg?style=flat-square&logo=c&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=ffdd54) ![typeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+
+**frontend**  
+![react](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![tailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+**backend**  
+![nodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![fastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+  
+**infrastructure & deployment**  
+![supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![neon](https://img.shields.io/badge/Neon-4338ca?style=flat-square&logo=neon) ![postgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![mongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)<br>
+![vercel](https://img.shields.io/badge/vercel-4338ca.svg?style=flat-square&logo=vercel&logoColor=white) ![render](https://img.shields.io/badge/render-4338ca.svg?style=flat-square&logo=render&logoColor=46E3B7)
+
+---
+
+## 📊 activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=transparent&show_icons=true&count_private=true&border_color=4338ca&icon_color=4338ca&title_color=4338ca&text_color=ffffff&cache_seconds=3600"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=transparent&show_icons=true&count_private=true&border_color=4338ca&icon_color=4338ca&title_color=4338ca&text_color=24292e&cache_seconds=3600"/>
+    <img src="https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=transparent&show_icons=true&count_private=true&border_color=4338ca&icon_color=4338ca&title_color=4338ca&text_color=24292e&cache_seconds=3600" alt="GitHub Stats" height="165"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=HOLYKEYZ&theme=transparent&border=4338ca&ring=4338ca&fire=4338ca&currStreakLabel=4338ca&currStreakNum=4338ca&sideNums=4338ca&sideLabels=4338ca&dates=888888"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=HOLYKEYZ&theme=transparent&border=4338ca&ring=4338ca&fire=4338ca&currStreakLabel=4338ca&currStreakNum=4338ca&sideNums=4338ca&sideLabels=4338ca&dates=555555"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=HOLYKEYZ&theme=transparent&border=4338ca&ring=4338ca&fire=4338ca&currStreakLabel=4338ca&currStreakNum=4338ca&sideNums=4338ca&sideLabels=4338ca&dates=555555" alt="GitHub Streak" height="165"/>
+  </picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&border_color=4338ca&title_color=4338ca&text_color=ffffff&cache_seconds=3600"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&border_color=4338ca&title_color=4338ca&text_color=24292e&cache_seconds=3600"/>
+    <img src="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&border_color=4338ca&title_color=4338ca&text_color=24292e&cache_seconds=3600" alt="Top Languages" height="165"/>
+</picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinzsent&show_icons=true&locale=en&layout=compact" alt="vinzsent" /></p>
+## 🤝 Open to Collaboration
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinzsent&show_icons=true&locale=en" alt="vinzsent" /></p>
+Working on AI safety(or red teaming) or building scalable systems? Let's talk.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinzsent&" alt="vinzsent" /></p>
+[![Email](https://img.shields.io/badge/Email-4338ca?style=flat-square&logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-4338ca?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2349019029665) [![Twitter](https://img.shields.io/badge/Twitter-4338ca?style=flat-square&logo=x&logoColor=white)](https://x.com/josepha_mayo)
