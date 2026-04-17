@@ -1,7 +1,7 @@
 # Vincent
 
 <div align="center">
-<img src="cover2.jpeg" alt="a man is great because failure hasn't stopped him"/>
+<img src="cover2.png" alt="a man is great because failure hasn't stopped him"/>
 </div>
 <br>
 
